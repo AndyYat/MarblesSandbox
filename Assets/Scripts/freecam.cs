@@ -27,7 +27,7 @@ public class freecam : MonoBehaviour
     /// <summary>
     /// Speed of camera movement when shift is held down,
     /// </summary>
-    public float fastMovementSpeed = 100f;
+    public float fastMovementSpeed = 50f;
 
     /// <summary>
     /// Sensitivity for free look.
